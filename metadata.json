@@ -1,0 +1,5 @@
+{
+  "name": "Color Pattern Cycler",
+  "description": "A configurable application that cycles through a user-defined pattern of colors and durations. Designed with a mobile-first approach, it allows users to create, modify, and play beautiful color sequences on their screen.",
+  "requestFramePermissions": []
+}
